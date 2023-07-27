@@ -1,12 +1,12 @@
 {
-  "name": "checkout-components",
+  "name": "bcomponents",
   "version": "1.0.0",
   "description": "bcash/bcrypto/bfilter components for checkout",
   "license": "MIT",
-  "repository": "git://github.com/hansekontor/checkout-components.git",
-  "homepage": "https://github.com/hansekontor/checkout-components",
+  "repository": "git://github.com/hansekontor/bcomponents.git",
+  "homepage": "https://github.com/hansekontor/bcomponents",
   "bugs": {
-    "url": "https://github.com/hansekontor/checkout-components/issues"
+    "url": "https://github.com/hansekontor/bcomponents/issues"
   },
   "author": "Fedor Indutny <fedor@indutny.com>",
   "contributors": [
