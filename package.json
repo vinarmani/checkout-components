@@ -1,5 +1,5 @@
 {
-  "name": "bcomponents",
+  "name": "@hansekontor/bcomponents",
   "version": "1.0.0",
   "description": "bcash/bcrypto/bfilter components for checkout",
   "license": "MIT",
