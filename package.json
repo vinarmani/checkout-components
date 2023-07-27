@@ -1,23 +1,25 @@
 {
-  "name": "bcash",
-  "version": "2.2.1",
-  "description": "eCash full node and library",
+  "name": "checkout-components",
+  "version": "1.0.0",
+  "description": "bcash/bcrypto/bfilter components for checkout",
   "license": "MIT",
-  "repository": "git://github.com/badger-cash/bcash.git",
-  "homepage": "https://github.com/badger-cash/bcash",
+  "repository": "git://github.com/hansekontor/checkout-components.git",
+  "homepage": "https://github.com/hansekontor/checkout-components",
   "bugs": {
-    "url": "https://github.com/badger-cash/bcash/issues"
+    "url": "https://github.com/hansekontor/checkout-components/issues"
   },
   "author": "Fedor Indutny <fedor@indutny.com>",
   "contributors": [
     "Christopher Jeffrey <chjjeffrey@gmail.com>",
     "Jonathan Gonzalez <rojikkushisutemu@gmail.com>",
-    "Vin Armani <vin@badger.cash>"
+    "Vin Armani <vin@badger.cash>",
+    "Olav <hs@cmpct.org>"
   ],
   "keywords": [
     "bcash",
     "bitcoin",
     "blockchain",
+    "checkout",
     "cryptocurrency",
     "wallet"
   ],
