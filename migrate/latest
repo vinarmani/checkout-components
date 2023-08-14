@@ -1,6 +1,0 @@
-#!/usr/bin/env node
-
-'use strict';
-
-console.error('No migrations available.');
-process.exit(1);
